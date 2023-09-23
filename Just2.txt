@@ -1,1 +1,1 @@
-This is another sample file to show git functionality
+This is another sample file to show video 6
